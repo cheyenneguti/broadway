@@ -1,3 +1,21 @@
 body{
-  background-color: pink;
+  background-color: white;
+  text-align: center;
+}
+#header{
+  background-image: url("../images/background.png");
+}
+.white-text{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+}
+.big-text{
+  font-size: 70px;
+}
+.small-text{
+  font-size: 23px;
+}
+ul{
+  list-style-type: none;
 }
