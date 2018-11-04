@@ -37,6 +37,16 @@ ul{
   font-weight: bold;
 
 }
+ul a{
+  list-style: none;
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+
+}
 .black-text{
   font-family: Helvetica;
   color: black;
@@ -49,6 +59,12 @@ ul{
   font-size: 23px;
 }
 #footer{
+  font-family: Helvetica;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+#footer a{
   font-family: Helvetica;
   background-color: dimgray;
   color: white;
