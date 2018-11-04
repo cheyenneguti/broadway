@@ -7,7 +7,6 @@ body{
 }
 .white-text{
   font-family: Helvetica;
-  font-weight: bold;
   color: white;
 }
 .big-text{
@@ -16,6 +15,29 @@ body{
 .small-text{
   font-size: 23px;
 }
+.tiny-text{
+  font-size: 18px;
+}
+.medium-text{
+  font-size: 32px;
+}
+.more-small{
+  font-size: 14px;
+}
+.bold{
+  font-weight: bold;
+}
 ul{
-  list-style-type: none;
+  list-style: none;
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: white;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+
+}
+.black-text{
+  font-family: Helvetica;
+  color: black;
 }
