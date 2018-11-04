@@ -41,3 +41,10 @@ ul{
   font-family: Helvetica;
   color: black;
 }
+#details{
+  background-image: url("../images/background.png");
+  font-family: Helvetica;
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
