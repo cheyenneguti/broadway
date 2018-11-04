@@ -48,3 +48,13 @@ ul{
   font-weight: bold;
   font-size: 23px;
 }
+#footer{
+  font-family: Helvetica;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+.wee{
+  font-size: 11px;
+  text-align: left;
+}
